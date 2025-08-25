@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pandas
+ta
+alpaca-trade-api
+python-dotenv
